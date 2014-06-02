@@ -1,0 +1,11 @@
+div {
+	color: #aebac1;
+	font-size: 23px;
+	font-weight: 700;
+	line-height: 1.2;
+    font-family: "Open Sans", sans-serif;
+	position: absolute; 
+	text-align: center;
+	top: 20%;
+    padding: 1em;
+}

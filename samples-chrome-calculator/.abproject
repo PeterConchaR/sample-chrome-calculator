@@ -1,0 +1,44 @@
+{
+  "ProjectGuid": "d4d1df0d-1a89-4290-a8c6-f0f176308f2d",
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "AppIdentifier": "com.telerik.samplechromecalculator",
+  "ProjectName": "sample-chrome-calculator",
+  "IsRunnable": "true",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "CorePlugins": [
+    "org.apache.cordova.file",
+    "org.apache.cordova.inappbrowser",
+    "org.apache.cordova.keyboard",
+    "org.apache.cordova.network-information",
+    "org.apache.cordova.statusbar"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "iOSStatusBarStyle": "Default",
+  "AndroidHardwareAcceleration": "false",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ],
+  "BundleVersion": "1.0",
+  "DisplayName": "Calculator",
+  "Author": "",
+  "Description": "A simple calculator.",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "AndroidVersionCode": "1",
+  "WP8Requirements": [],
+  "WP8Capabilities": [],
+  "WP8TileTitle": "",
+  "WP8ProductID": "{d4d1df0d-1a89-4290-a8c6-f0f176308f2d}",
+  "WP8PublisherID": "{6cbc2b94-16ca-41ec-b1d6-86d0efd5c38b}",
+  "WP8Publisher": "",
+  "Framework": "Cordova"
+}
